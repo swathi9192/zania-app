@@ -1,8 +1,8 @@
 import { DeviceStatusGridColumns } from '../../config/DeviceStatusGridColumns';
 import { DeviceStatusGridData } from '../../config/DeviceStatusGridData';
 import { DataGrid } from '../dataGrid/DataGrid';
-import './DeviceStatusGrid.scss';
 import { useDeviceStatusGrid } from '../../hooks/useDeviceStatusGrid';
+import './DeviceStatusGrid.scss';
 
 export const DeviceStatusGrid = () => {
 

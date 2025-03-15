@@ -4,7 +4,6 @@ import { DeviceStatusResponse } from '../domain/DeviceStatusResponse';
 import { RowNode } from '../domain/GridDataType';
 import { CheckboxStates } from '../domain/CheckboxStates';
 import { DeviceStatus } from '../domain/DeviceStatus';
-import './DeviceStatusGrid.scss';
 
 //custom hook to maintain logic for device status grid
 export const useDeviceStatusGrid = () => {

@@ -1,0 +1,14 @@
+.grid-container {
+    display: flex;
+    column-gap: 8px;
+
+    button {
+        width: 200px;
+        height: 36px;
+        align-items: center;
+        font-size: 14px;
+        padding: 0 16px;
+        position: relative;
+        bottom: 8px;
+    }
+}

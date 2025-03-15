@@ -1,0 +1,14 @@
+.available-container {
+    display: flex;
+    column-gap: 5px;
+
+    .dot-circle {
+        height: 8px;
+        width: 8px;
+        position: relative;
+        top: 9px;
+        background-color: #04AA6D;
+        border-radius: 50%;
+        display: inline-block;
+    }
+}

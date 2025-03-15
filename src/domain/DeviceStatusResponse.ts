@@ -1,5 +1,6 @@
-import { DeviceStatusColIds } from "./DeviceStatusColIds";
+import { DeviceStatusColIds } from './DeviceStatusColIds';
 
+//JSON response type
 export interface DeviceStatusResponse {
     [DeviceStatusColIds.NAME]: string;
     [DeviceStatusColIds.DEVICE]: string;

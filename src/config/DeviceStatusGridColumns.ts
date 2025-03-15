@@ -1,6 +1,6 @@
-import { StatusCellRenderer } from "../components/statusCellRenderer/StatusCellRenderer";
-import { DeviceStatusColIds } from "../domain/DeviceStatusColIds";
-import { GridColumn } from "../domain/GridColumn";
+import { StatusCellRenderer } from '../components/statusCellRenderer/StatusCellRenderer';
+import { DeviceStatusColIds } from '../domain/DeviceStatusColIds';
+import { GridColumn } from '../domain/GridColumn';
 
 export const DeviceStatusGridColumns: GridColumn[] = [
     {

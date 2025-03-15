@@ -1,4 +1,4 @@
-import { DeviceStatus } from "../../domain/DeviceStatus";
+import { DeviceStatus } from '../../domain/DeviceStatus';
 import './StatusCellRenderer.scss';
 
 export const StatusCellRenderer = (props: { value: string }) => {
